@@ -1,0 +1,20 @@
+.nestedShapes {
+  align-self: stretch;
+  width: 1942px;
+  position: relative;
+  background-color: var(--color-black);
+  max-width: 115%;
+  flex-shrink: 0;
+}
+.additionalFrame {
+  height: 310px;
+  width: 1691px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 117%;
+  flex-shrink: 0;
+}

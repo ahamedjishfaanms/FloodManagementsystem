@@ -1,0 +1,33 @@
+.additionalFrameWrapper {
+  align-self: stretch;
+  height: 181px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.desktop1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 66px;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 750px) {
+  .desktop1 {
+    gap: 33px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .desktop1 {
+    gap: 16px;
+  }
+}

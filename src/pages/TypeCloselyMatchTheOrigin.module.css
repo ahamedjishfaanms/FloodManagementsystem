@@ -1,0 +1,100 @@
+.typeCloselyMatchTheOriginChild {
+  position: absolute;
+  top: 210px;
+  left: 1061px;
+  width: 560px;
+  height: 428px;
+  object-fit: cover;
+  display: none;
+}
+.username {
+  position: absolute;
+  top: 665.9px;
+  left: 850.1px;
+  display: inline-block;
+  width: 447.5px;
+  height: 70.1px;
+  transform: rotate(0.1deg);
+  transform-origin: 0 0;
+  mix-blend-mode: darken;
+}
+.typeCloselyMatchTheOriginItem {
+  position: absolute;
+  top: 773px;
+  left: 669px;
+  background-color: var(--color-gainsboro);
+  width: 1px;
+  height: 40px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+  display: none;
+}
+.loginWithFb,
+.password {
+  position: absolute;
+  top: 928px;
+  left: 850px;
+  display: inline-block;
+  width: 310px;
+  height: 68px;
+}
+.loginWithFb {
+  top: 1292px;
+  left: 947px;
+  width: 961px;
+  height: 70px;
+}
+.learn,
+.ng {
+  border: 0;
+  outline: 0;
+  background-color: var(--color-gainsboro);
+  position: absolute;
+  top: 763.9px;
+  left: 1052.8px;
+  width: 955px;
+  height: 109px;
+}
+.ng {
+  top: 1016.5px;
+  left: 1040.1px;
+  width: 982px;
+  height: 116px;
+}
+.passwordInputChild {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 1071.5px;
+  object-fit: contain;
+  z-index: 1;
+}
+.lllll,
+.passwordInput {
+  position: absolute;
+  top: 0.7px;
+  left: -189.5px;
+  width: 2022px;
+  height: 1429px;
+}
+.lllll {
+  top: 38.5px;
+  left: 1832.5px;
+  display: none;
+  width: 32px;
+  height: 9px;
+}
+.typeCloselyMatchTheOrigin {
+  width: 100%;
+  height: 1482px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-39xl-5);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
